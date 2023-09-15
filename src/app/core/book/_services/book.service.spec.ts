@@ -34,7 +34,7 @@ describe('BookService', () => {
       expect(data).toEqual(testData);
     });
 
-    const req = httpMock.expectOne('http://localhost:3000/books/25');
+    const req = httpMock.expectOne('https://vavacarstestcaseozgur.azurewebsites.net/books/25');
     expect(req.request.method).toBe('GET');
 
     // Respond with mock data

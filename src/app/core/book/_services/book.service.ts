@@ -5,7 +5,7 @@ import {Observable} from "rxjs";
 import { map } from 'rxjs/operators';
 import {PaginatedResponse} from "../../base/_models/paginatedResponse.model";
 
-const API_URL = 'http://localhost:3000';
+const API_URL = 'https://vavacarstestcaseozgur.azurewebsites.net';
 @Injectable({
   providedIn: 'root',
 })
