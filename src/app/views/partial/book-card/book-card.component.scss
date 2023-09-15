@@ -1,0 +1,15 @@
+.book-detail-card:not(.small-card) {
+  min-height: calc(100vh - 88px)!important;
+  .book-detail-image {
+    max-height: 400px;
+  }
+}
+
+.book-detail-card.small-card {
+  .book-detail-image {
+    max-height: 160px;
+  }
+}
+:host {
+  width: 90%;
+}

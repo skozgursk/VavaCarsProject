@@ -1,0 +1,14 @@
+<ng-container>
+  <div *ngIf="data; else elseBlock">
+    <app-book-card
+      [isDetailCard]="true"
+      [bookItem]="data">
+      <p>{{data!.description}}</p>
+    </app-book-card>
+  </div>
+
+  <ng-template #elseBlock>
+    <div>aaa</div>
+    <p>No book found</p>
+  </ng-template>
+</ng-container>

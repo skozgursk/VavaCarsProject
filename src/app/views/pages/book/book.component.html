@@ -1,0 +1,41 @@
+<ng-container>
+  <div class="card mt-3 d-flex p-2 justify-content-between align-items-center book-container">
+    <div class="container">
+      <div class="row my-2" *ngIf="categoryFilterList">
+        <div class="col text-end">
+          <b>Filter By Category:</b>
+          <div ngbDropdown class="d-inline-block me-4 ms-2">
+            <button type="button" class="btn btn-outline-primary" id="filterDropdown" ngbDropdownToggle>
+              {{categoryFilter || 'None'}}
+            </button>
+            <div ngbDropdownMenu aria-labelledby="filterDropdown">
+              <button (click)="onFilterSelect('')"  ngbDropdownItem>
+                None
+              </button>
+              <button (click)="onFilterSelect(item)"  *ngFor="let item of categoryFilterList"  ngbDropdownItem>
+                {{item}}
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div *ngFor="let item of items"
+             class="col-xxl-3 col-xl-4 col-lg-4 col-md-6 col-12 d-flex justify-content-center align-items-center">
+          <app-book-card [bookItem]="item">
+            <div class="d-flex justify-content-center align-items-center">
+
+              <a [routerLink]="['/books', item.id]" class="btn btn-outline-danger w-100">Details</a>
+            </div>
+          </app-book-card>
+        </div>
+      </div>
+    </div>
+
+    <ngb-pagination
+      [(page)]="page"
+      [pageSize]="pageSize"
+      [collectionSize]="totalItems"
+      (pageChange)="onPageChange()"></ngb-pagination>
+  </div>
+</ng-container>

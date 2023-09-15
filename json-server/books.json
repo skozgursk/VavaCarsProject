@@ -1,0 +1,220 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Harry Potter",
+      "author": "JK Rowling",
+      "category": "Fiction",
+      "coverImageUrl": "https://m.media-amazon.com/images/I/81m1s4wIPML._AC_UF1000,1000_QL80_.jpg",
+      "description": "This is the description for Harry Potter."
+    },
+    {
+      "id": "2",
+      "title": "Sample Book 2",
+      "author": "Author 2",
+      "category": "Non-Fiction",
+      "coverImageUrl": "https://s26162.pcdn.co/wp-content/uploads/sites/2/2022/05/Book.jpg",
+      "description": "This is the description for Sample Book 2."
+    },
+    {
+      "id": "3",
+      "title": "Sample Book 3",
+      "author": "Author 3",
+      "category": "Mystery",
+      "coverImageUrl": "https://media.newyorker.com/photos/59ee325f1685003c9c28c4ad/16:9/w_5616,h_3159,c_limit/Heller-Kirkus-Reviews.jpg",
+      "description": "This is the description for Sample Book 3."
+    },
+    {
+      "id": "4",
+      "title": "Harry Potter",
+      "author": "JK Rowling",
+      "category": "Fiction",
+      "coverImageUrl": "https://m.media-amazon.com/images/I/81m1s4wIPML._AC_UF1000,1000_QL80_.jpg",
+      "description": "This is the description for Harry Potter."
+    },
+    {
+      "id": "5",
+      "title": "Sample Book 2",
+      "author": "Author 2",
+      "category": "Non-Fiction",
+      "coverImageUrl": "https://s26162.pcdn.co/wp-content/uploads/sites/2/2022/05/Book.jpg",
+      "description": "This is the description for Sample Book 2."
+    },
+    {
+      "id": "6",
+      "title": "Sample Book 3",
+      "author": "Author 3",
+      "category": "Mystery",
+      "coverImageUrl": "https://media.newyorker.com/photos/59ee325f1685003c9c28c4ad/16:9/w_5616,h_3159,c_limit/Heller-Kirkus-Reviews.jpg",
+      "description": "This is the description for Sample Book 3."
+    },
+    {
+      "id": "7",
+      "title": "Harry Potter",
+      "author": "JK Rowling",
+      "category": "Fiction",
+      "coverImageUrl": "https://m.media-amazon.com/images/I/81m1s4wIPML._AC_UF1000,1000_QL80_.jpg",
+      "description": "This is the description for Harry Potter."
+    },
+    {
+      "id": "8",
+      "title": "Sample Book 2",
+      "author": "Author 2",
+      "category": "Non-Fiction",
+      "coverImageUrl": "https://s26162.pcdn.co/wp-content/uploads/sites/2/2022/05/Book.jpg",
+      "description": "This is the description for Sample Book 2."
+    },
+    {
+      "id": "9",
+      "title": "Sample Book 3",
+      "author": "Author 3",
+      "category": "Mystery",
+      "coverImageUrl": "https://media.newyorker.com/photos/59ee325f1685003c9c28c4ad/16:9/w_5616,h_3159,c_limit/Heller-Kirkus-Reviews.jpg",
+      "description": "This is the description for Sample Book 3."
+    },
+    {
+      "id": "10",
+      "title": "Harry Potter",
+      "author": "JK Rowling",
+      "category": "Fiction",
+      "coverImageUrl": "https://m.media-amazon.com/images/I/81m1s4wIPML._AC_UF1000,1000_QL80_.jpg",
+      "description": "This is the description for Harry Potter."
+    },
+    {
+      "id": "11",
+      "title": "Harry Potter",
+      "author": "JK Rowling",
+      "category": "Fiction",
+      "coverImageUrl": "https://m.media-amazon.com/images/I/81m1s4wIPML._AC_UF1000,1000_QL80_.jpg",
+      "description": "This is the description for Harry Potter."
+    },
+    {
+      "id": "12",
+      "title": "Sample Book 2",
+      "author": "Author 2",
+      "category": "Non-Fiction",
+      "coverImageUrl": "https://s26162.pcdn.co/wp-content/uploads/sites/2/2022/05/Book.jpg",
+      "description": "This is the description for Sample Book 2."
+    },
+    {
+      "id": "13",
+      "title": "Sample Book 3",
+      "author": "Author 3",
+      "category": "Mystery",
+      "coverImageUrl": "https://media.newyorker.com/photos/59ee325f1685003c9c28c4ad/16:9/w_5616,h_3159,c_limit/Heller-Kirkus-Reviews.jpg",
+      "description": "This is the description for Sample Book 3."
+    },
+    {
+      "id": "14",
+      "title": "Sample Book 2",
+      "author": "Author 2",
+      "category": "Non-Fiction",
+      "coverImageUrl": "https://s26162.pcdn.co/wp-content/uploads/sites/2/2022/05/Book.jpg",
+      "description": "This is the description for Sample Book 2."
+    },
+    {
+      "id": "15",
+      "title": "Sample Book 3",
+      "author": "Author 3",
+      "category": "Mystery",
+      "coverImageUrl": "https://media.newyorker.com/photos/59ee325f1685003c9c28c4ad/16:9/w_5616,h_3159,c_limit/Heller-Kirkus-Reviews.jpg",
+      "description": "This is the description for Sample Book 3."
+    },
+    {
+      "id": "16",
+      "title": "Harry Potter",
+      "author": "JK Rowling",
+      "category": "Fiction",
+      "coverImageUrl": "https://m.media-amazon.com/images/I/81m1s4wIPML._AC_UF1000,1000_QL80_.jpg",
+      "description": "This is the description for Harry Potter."
+    },
+    {
+      "id": "17",
+      "title": "Sample Book 2",
+      "author": "Author 2",
+      "category": "Non-Fiction",
+      "coverImageUrl": "https://s26162.pcdn.co/wp-content/uploads/sites/2/2022/05/Book.jpg",
+      "description": "This is the description for Sample Book 2."
+    },
+    {
+      "id": "18",
+      "title": "Sample Book 3",
+      "author": "Author 3",
+      "category": "Mystery",
+      "coverImageUrl": "https://media.newyorker.com/photos/59ee325f1685003c9c28c4ad/16:9/w_5616,h_3159,c_limit/Heller-Kirkus-Reviews.jpg",
+      "description": "This is the description for Sample Book 3."
+    },
+    {
+      "id": "19",
+      "title": "Harry Potter",
+      "author": "JK Rowling",
+      "category": "Fiction",
+      "coverImageUrl": "https://m.media-amazon.com/images/I/81m1s4wIPML._AC_UF1000,1000_QL80_.jpg",
+      "description": "This is the description for Harry Potter."
+    },
+    {
+      "id": "20",
+      "title": "Sample Book 2",
+      "author": "Author 2",
+      "category": "Non-Fiction",
+      "coverImageUrl": "https://s26162.pcdn.co/wp-content/uploads/sites/2/2022/05/Book.jpg",
+      "description": "This is the description for Sample Book 2."
+    },
+    {
+      "id": "21",
+      "title": "Sample Book 3",
+      "author": "Author 3",
+      "category": "Mystery",
+      "coverImageUrl": "https://media.newyorker.com/photos/59ee325f1685003c9c28c4ad/16:9/w_5616,h_3159,c_limit/Heller-Kirkus-Reviews.jpg",
+      "description": "This is the description for Sample Book 3."
+    },
+    {
+      "id": "22",
+      "title": "Harry Potter",
+      "author": "JK Rowling",
+      "category": "Fiction",
+      "coverImageUrl": "https://m.media-amazon.com/images/I/81m1s4wIPML._AC_UF1000,1000_QL80_.jpg",
+      "description": "This is the description for Harry Potter."
+    },
+    {
+      "id": "23",
+      "title": "Sample Book 2",
+      "author": "Author 2",
+      "category": "Non-Fiction",
+      "coverImageUrl": "https://s26162.pcdn.co/wp-content/uploads/sites/2/2022/05/Book.jpg",
+      "description": "This is the description for Sample Book 2."
+    },
+    {
+      "id": "24",
+      "title": "Sample Book 3",
+      "author": "Author 3",
+      "category": "Mystery",
+      "coverImageUrl": "https://media.newyorker.com/photos/59ee325f1685003c9c28c4ad/16:9/w_5616,h_3159,c_limit/Heller-Kirkus-Reviews.jpg",
+      "description": "This is the description for Sample Book 3."
+    },
+    {
+      "id": "25",
+      "title": "Harry Potter",
+      "author": "JK Rowling",
+      "category": "Fiction",
+      "coverImageUrl": "https://m.media-amazon.com/images/I/81m1s4wIPML._AC_UF1000,1000_QL80_.jpg",
+      "description": "This is the description for Harry Potter."
+    },
+    {
+      "id": "26",
+      "title": "Sample Book 2",
+      "author": "Author 2",
+      "category": "Non-Fiction",
+      "coverImageUrl": "https://s26162.pcdn.co/wp-content/uploads/sites/2/2022/05/Book.jpg",
+      "description": "This is the description for Sample Book 2."
+    },
+    {
+      "id": "27",
+      "title": "Sample Book 3",
+      "author": "Author 3",
+      "category": "Mystery",
+      "coverImageUrl": "https://media.newyorker.com/photos/59ee325f1685003c9c28c4ad/16:9/w_5616,h_3159,c_limit/Heller-Kirkus-Reviews.jpg",
+      "description": "This is the description for Sample Book 3."
+    }
+  ]
+}
